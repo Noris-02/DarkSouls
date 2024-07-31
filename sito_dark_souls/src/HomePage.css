@@ -1,0 +1,22 @@
+.titolo-home-page{
+  text-align: center;
+}
+
+.image-container{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 70vh; 
+}
+
+.image-container img{
+  width: 50vw;
+  margin-top: 1vh;
+}
+
+.bottoni{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 20vh; 
+}
