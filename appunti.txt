@@ -1,1 +1,8 @@
-prova
+APPUNTI/IDEE
+
+dark souls 3
+dopo avere fatto in modo che se clicco sul bottone mi porta al file  darksouls3.jsx
+creare come prima pagina  l'elenco dei boss con relativa immagine 
+dopo aver fatto l'elenco usando i link ogni boss porterà alla propria pagina contenente le informazioni 
+Informazioni : nome Boss , Locazione, Opzionale , vita , anime, resistenze e debolezze , cosa ottinie con la lora anima 
+inoltre ogni boss avrà infonda alla pagina una checkbox con scritto se hai o meno battuto questo boss se la selezioni il nome in elenco diventa verda
